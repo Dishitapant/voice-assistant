@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyaudio
+scikit-learn
+pandas
+pyjokes
