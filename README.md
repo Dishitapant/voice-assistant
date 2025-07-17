@@ -40,9 +40,11 @@ voiceassistant/
 
 Make sure you have Python 3.8+ installed.
 
+
 Install the required libraries using:
 
 pip install -r requirements.txt
+
 
 ▶️ To Run the Assistant
 
@@ -52,6 +54,7 @@ Navigate to the project folder:
 
 cd path/to/your/voiceassistant
 
+
 Run the assistant:
 
 python assistant.py
@@ -59,6 +62,8 @@ python assistant.py
 🎤 How It Works
 
 The assistant listens to your voice and responds back using speech.
+
+
 
 Supported commands:
 
